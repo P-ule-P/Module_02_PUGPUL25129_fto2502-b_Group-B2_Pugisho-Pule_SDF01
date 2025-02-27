@@ -46,7 +46,7 @@ I reside in the northern Free State🏰, where I was born and raised👶🏽. My
 
 ---
 
-## 📍 Projects
+## 📍 My Projects
 
 *Below are my projects to be achieved during my coursework:*
 
@@ -56,16 +56,17 @@ I reside in the northern Free State🏰, where I was born and raised👶🏽. My
    - Creating a functioning repository
    - Cloning and Forking repositories
    - Using git commands in VS Code
-   🔹 Status: ✅ Completed
+🔹 Status: ✅ Completed
 
 2️⃣ Personal Portfolio (On the way!)
 🔹 Purpose: A simple portfolio to showcase my projects.
-🔹 Languages: HTML, CSS 🔹 Status: ⏳ In Progress
+🔹 Languages: HTML, CSS 
+🔹 Status: ⏳ In Progress
 
 
 ---
 
-## 🎯 Targets:
+## 🎯 My Targets:
 
 - 👑 Master Git and GitHub
 - 🪁 Excel in HTML, CSS, and JavaScript
@@ -75,7 +76,7 @@ I reside in the northern Free State🏰, where I was born and raised👶🏽. My
 
 ---
 
-## 📫 Connect with Me
+## 📫 Contact Me On:
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/P-ule-P)  
 📧 Email: [ppule1@gmail.com](mailto:ppule1@egmail.com)
