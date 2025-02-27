@@ -56,11 +56,12 @@ I reside in the northern Free State🏰, where I was born and raised👶🏽. My
    - Creating a functioning repository
    - Cloning and Forking repositories
    - Using git commands in VS Code
-   🔹 Status: ✅ Completed
+🔹 Status: ✅ Completed
 
 2️⃣ Personal Portfolio (On the way!)
 🔹 Purpose: A simple portfolio to showcase my projects.
-🔹 Languages: HTML, CSS 🔹 Status: ⏳ In Progress
+🔹 Languages: HTML, CSS 
+🔹 Status: ⏳ In Progress
 
 
 ---
