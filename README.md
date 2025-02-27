@@ -1,7 +1,7 @@
 # My Journey In Code 🛣️🌄
 
 # 🙋🏽‍♂️ Hi, I'm Pugisho 🐦‍🔥
-🔥 I am a student in Software Development 🔥 
+🔥 I am a student in Software Development 🔥                                                                                             
 🚀 Eager to find knowledge to further my ambitions of being a software developer 🚀
 ---
 
@@ -51,16 +51,21 @@ I reside in the northern Free State🏰, where I was born and raised👶🏽. My
 *Below are my projects to be achieved during my coursework:*
 
 1️⃣ First GitHub Project
+
 🔹 Achieved: 
    - Managing files through GitHub
    - Creating a functioning repository
    - Cloning and Forking repositories
    - Using git commands in VS Code
+     
 🔹 Status: ✅ Completed
 
 2️⃣ Personal Portfolio (On the way!)
+
 🔹 Purpose: A simple portfolio to showcase my projects.
+
 🔹 Languages: HTML, CSS 
+
 🔹 Status: ⏳ In Progress
 
 
