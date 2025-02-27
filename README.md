@@ -1,7 +1,7 @@
 # My Journey In Code 🛣️🌄
 
 # 🙋🏽‍♂️ Hi, I'm Pugisho 🐦‍🔥
-🔥 I am a student in Software Development 🔥                                                                                             
+🔥 I am a student in Software Development 🔥 
 🚀 Eager to find knowledge to further my ambitions of being a software developer 🚀
 ---
 
@@ -46,12 +46,11 @@ I reside in the northern Free State🏰, where I was born and raised👶🏽. My
 
 ---
 
-## 📍 My Projects
+## 📍 Projects
 
 *Below are my projects to be achieved during my coursework:*
 
 1️⃣ First GitHub Project
-
 🔹 Achieved: 
    - Managing files through GitHub
    - Creating a functioning repository
@@ -60,14 +59,13 @@ I reside in the northern Free State🏰, where I was born and raised👶🏽. My
 🔹 Status: ✅ Completed
 
 2️⃣ Personal Portfolio (On the way!)
-
 🔹 Purpose: A simple portfolio to showcase my projects.
-🔹 Languages: HTML, CSS 🔹 Status: ⏳ In Progress
-
+🔹 Languages: HTML, CSS 
+🔹 Status: ⏳ In Progress
 
 ---
 
-## 🎯 My Targets:
+## 🎯 Targets:
 
 - 👑 Master Git and GitHub
 - 🪁 Excel in HTML, CSS, and JavaScript
@@ -77,7 +75,7 @@ I reside in the northern Free State🏰, where I was born and raised👶🏽. My
 
 ---
 
-## 📫 Contact Me On:
+## 📫 Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/P-ule-P)  
 📧 Email: [ppule1@gmail.com](mailto:ppule1@egmail.com)
