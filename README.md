@@ -7,12 +7,13 @@
 
 ## 🧾 My story
 
-I live in the northern Free State🏰, where I was born and raised👶🏽. In my younger years I found myself fond of **app creation**🈸 when I held my first smartphone📱🤳🏽. My fondness💌 drove me to discover CodeSpace🚀 where dreams become a reality🎊. Now I am learning with CodeSpace🚀, as you read I am busy burning the midnight oil🕯️going through **GitHub and version control** trying to perfect my skills🤹🏽‍♀️. In the coming days☀️ I will be going deeper into my course📖, learning how to code👨🏽‍💻, immersing🏊🏽‍♂️ myself in **HTML, CSS, and JavaScript** languages. One of my primary traits🤩 growing up was to try and fix everything🤖 even if it means finding a creative way to fix it out of conventional standards📐, and with that said I am looking forward to solving problems with coding👨🏽‍💻 and learning how to apply my knowledge to real-world problems.👨🏽‍🚀🚀
+I reside in the northern Free State🏰, where I was born and raised👶🏽. My interest💌 in app creation🈸 began with my first smartphone📱🤳🏽, which led me to discover CodeSpace🚀, a platform that turns ambitions into reality🎊. Currently☀️, I am focused on improving my skills🤹🏽‍♀️ through GitHub and version control. In the days ahead, I will dive🏊🏽‍♂️ deeper into coding👨🏽‍💻, particularly in HTML, CSS, and JavaScript🧩. I have always been driven🤩 to find creative solutions to challenges🤖, and I look forward to applying my coding knowledge to solve real-world problems.👨🏽‍🚀🚀
+
 ---
 
 ## 🛜💻 Tech Stack 🖥️⚙️
 
-**Working on:**
+**Developing Competencies on:**
 
 - ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
@@ -22,7 +23,7 @@ I live in the northern Free State🏰, where I was born and raised👶🏽. In m
 
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
 
-**My Next Move:**
+**Future Competencies:**
 
 - ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white) 
 - ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
@@ -34,36 +35,33 @@ I live in the northern Free State🏰, where I was born and raised👶🏽. In m
 
 ## 🥇 Personal Skills
 
-- 👨🏽‍🔬 Analytical Thinker
+- 👨🏽‍🔬 Analytical Thinker 
 - 🔍 Attention to Detail
-- 🕺🏽 Proactive
+- 🕺🏽 Proactive 
 - 💯 Multitasking
-- 🎯 Problem-Solving
+- 🎯 Problem-Solving 
 - 🕔 Punctual
-- 🤝 Collaborative
-- ⚖️ Social skills 
+- 🤝 Collaborative 
+- ⚖️ Interpersonal skills 
 
 ---
 
 ## 📍 Projects
 
-Below are my projects to be achieved during my coursework:
+*Below are my projects to be achieved during my coursework:*
 
-### **1️⃣ First, Git and GitHub Project**
+1️⃣ First GitHub Project
+🔹 Achieved: 
+   - Managing files through GitHub
+   - Creating a functioning repository
+   - Cloning and Forking repositories
+   - Using git commands in VS Code
+   🔹 Status: ✅ Completed
 
-🔹 **Description:** My first project using GitHub to manage files.  
-🔹 **Status:** ✅ Completed
+2️⃣ Personal Portfolio (On the way!)
+🔹 Purpose: A simple portfolio to showcase my projects.
+🔹 Languages: HTML, CSS 🔹 Status: ⏳ In Progress
 
-### **2️⃣ Second,creating a functioning Repository Project**
-
-🔹 **Description:** My Second project, creating a README.md file on VS Code and making a repository on GitHub.  
-🔹 **Status:** ✅ Completed
-
-### **3️⃣ Third, Personal Portfolio** (On the way!)
-
-🔹 **Description:** A simple portfolio to showcase my projects.  
-🔹 **Languages:** HTML, CSS, JavaScript
-🔹 **Status:** ⏳ In Progress
 
 ---
 
@@ -85,7 +83,7 @@ Below are my projects to be achieved during my coursework:
 
 ---
 
-## ❤️‍🔥 Favorite Quote
+## ❤️‍🔥 Favorite Quote ❤️‍🔥
 
 💫 "Whether you want to uncover the secrets of the universe or you just want to pursue a career in the 21st century, basic computer programming is an essential skill to learn."
 – Stephen Hawking
